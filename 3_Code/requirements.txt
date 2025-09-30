@@ -1,0 +1,10 @@
+#
+####### requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+pyside6
+pyqtgraph
+numpy
+pyvisa
+#
+###### Requirements with Version Specifiers ######
